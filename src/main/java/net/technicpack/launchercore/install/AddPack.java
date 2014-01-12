@@ -54,6 +54,6 @@ public class AddPack extends InstalledPack {
 
 	@Override
 	public String getDisplayName() {
-		return "Add Pack";
+		return "Добавить пак";
 	}
 }

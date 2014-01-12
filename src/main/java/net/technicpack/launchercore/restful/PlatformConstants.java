@@ -20,7 +20,7 @@
 package net.technicpack.launchercore.restful;
 
 public class PlatformConstants {
-	public static final String PLATFORM = "http://www.technicpack.net/";
+	public static final String PLATFORM = "http://mc.alexbond.info/l2/";
 
 	public static final String API = PLATFORM + "api/";
 
