@@ -19,9 +19,9 @@
 package net.technicpack.launchercore.util;
 
 public enum LaunchAction {
-	HIDE("Hide Launcher"),
-	CLOSE("Close Launcher"),
-	NOTHING("Stay Open");
+	HIDE("Спрятать лаунчер"),
+	CLOSE("Закрыть лаунчер"),
+	NOTHING("Оставить открытым");
 	private final String display;
 
 	private LaunchAction(String s) {
