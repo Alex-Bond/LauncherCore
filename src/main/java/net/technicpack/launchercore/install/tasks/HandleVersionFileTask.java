@@ -22,7 +22,7 @@ public class HandleVersionFileTask implements IInstallTask {
 
 	@Override
 	public String getTaskDescription() {
-		return "Processing version.";
+		return "Обработка версии.";
 	}
 
 	@Override
